@@ -1,2 +1,2 @@
-# LJS
+# LearnJS
 JS express course
