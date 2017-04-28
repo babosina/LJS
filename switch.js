@@ -49,7 +49,7 @@ switch (a) {
 }
 */
 
-var arg = prompt('Enter arg');
+var arg = prompt('Enter arg ');
 switch (arg) {
     case '0':
     case '1':
