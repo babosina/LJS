@@ -1,7 +1,3 @@
-/**
- * Created by astankevich on 5/30/2017.
- */
-
 // Looping a triangle
 
 var line = '';
